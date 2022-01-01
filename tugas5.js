@@ -1,3 +1,7 @@
-for(i = 0; i <= 20; i++){
-    console.log(i*3)
+function kelipatan(){
+    for(i = 0; i <= 20; i++){
+        console.log(i*3)
+    }
 }
+
+kelipatan()
